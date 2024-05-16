@@ -1,0 +1,9 @@
+[api]
+api_url="https://virtserver.swaggerhub.com/wcd_de_lab/top10/1.0.0/add"
+
+[s3]
+bucket='rcp-input'
+folder='input'
+
+[run]
+py_script="run.py"
